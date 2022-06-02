@@ -394,5 +394,5 @@
 "cms.qdwght.com"
 ],
   "wallpaper": "",
-  "spider": "https://gitea.com/wuzang/mm/raw/branch/master/xm.jar"
+  "spider": "https://gitea.com/lli8779182/ss/raw/branch/master/jar/xm.jar"
 }
